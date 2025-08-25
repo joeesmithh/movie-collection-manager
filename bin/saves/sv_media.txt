@@ -1,8 +1,0 @@
-tt0108052	movie	Schindler's List	1993	true	"Biography,Drama,History"
-tt0063350	movie	Night of the Living Dead	1968	true	"Horror,Thriller"
-tt0068646	movie	The Godfather	1972	true	"Crime,Drama"
-tt0120689	movie	The Green Mile	1999	true	"Crime,Drama,Fantasy"
-tt0077766	movie	Jaws 2	1978	true	"Adventure,Horror,Thriller"
-tt0092965	movie	Empire of the Sun	1987	true	"Drama,War"
-tt0111161	movie	The Shawshank Redemption	1994	true	Drama
-tt0097889	movie	Miracle Mile	1988	true	"Action,Drama,Romance"
