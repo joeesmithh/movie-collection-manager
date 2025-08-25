@@ -5,7 +5,7 @@ Movie cataloging tool built with JavaFX, integrating IMDb data for easy searchin
 
 ## Demo
 <div align="center">
-    <img width="55%" src="https://raw.githubusercontent.com/joeesmithh/movie-collection-manager/refs/heads/main/res/preview/movie_collection_manager_demo.gif"/>
+    <img width="75%" src="https://raw.githubusercontent.com/joeesmithh/movie-collection-manager/refs/heads/main/res/preview/movie_collection_manager_demo.gif"/>
 </div>
 
 <br />
