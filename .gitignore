@@ -47,10 +47,7 @@ out/
 ##############################
 ## Eclipse
 ##############################
-main/
-media/
-movie/
-panes/
+bin/
 .settings/
 tmp/
 .metadata
